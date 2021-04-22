@@ -202,7 +202,6 @@ footer a {
     main {
         display: grid;
         grid-template-columns: none;
-        /* grid-template-rows: 220px 560px 250px 310px 310px; */
         grid-template-rows: repeat(5, auto);
         grid-template-areas: "a"
                              "b"
@@ -214,7 +213,6 @@ footer a {
     .info1 {
         display: grid;
         grid-template-columns: none;
-        /* grid-template-rows: min-content; */
         margin: 20px 10px;
     }
 
